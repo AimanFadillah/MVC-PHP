@@ -1,6 +1,7 @@
 <?php
 
 class About {
+    // method
     public function index($nama = "Aiman"){
         echo "Halo Saya $nama Ferdi Fernandes,Saya Tertarik Kenalan sama kalian";
     }
