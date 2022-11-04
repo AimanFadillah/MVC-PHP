@@ -2,6 +2,7 @@
 
 // membuat class
 class App {
+
     public function __construct()
     {
         // Untuk melihat hasil url yang diambil
